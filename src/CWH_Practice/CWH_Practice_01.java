@@ -76,5 +76,7 @@ public class CWH_Practice_01 {
 
         // Experiment for remote name change and then push the code
 
+        // from terminal Experiment for remote name change and then push the code
+
     }
 }
